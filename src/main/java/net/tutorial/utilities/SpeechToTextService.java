@@ -40,7 +40,7 @@ public class SpeechToTextService {
 	                }
 	            }
 			
-			 audioFile.delete();
+			 //audioFile.delete();
 			 
 			return text;
 		}
